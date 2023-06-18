@@ -1,3 +1,3 @@
 # Data-Analytics
 ## Project **E-Commerce data**
-1. Open 
+> Open Ecommerce_Sales you will find out data set , task.md file for task and details.
